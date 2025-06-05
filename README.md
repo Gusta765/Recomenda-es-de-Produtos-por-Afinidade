@@ -1,6 +1,7 @@
 🚀 Sistema de Recomendação Baseado em Similaridade de Produtos
 🔍 Visão Geral do Modelo
-Este sistema de recomendação utiliza álgebra linear e similaridade vetorial para identificar produtos relacionados com base nos padrões de compra dos clientes. O núcleo matemático do modelo é o cálculo de similaridade cosseno entre vetores que representam o comportamento de compra de diferentes produtos.
+Este sistema de recomendação utiliza álgebra linear e similaridade vetorial para identificar produtos relacionados com base nos padrões de compra dos clientes. 
+O núcleo matemático do modelo é o cálculo de similaridade cosseno entre vetores que representam o comportamento de compra de diferentes produtos.
 
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*G5eDcA1vMpGg2s0gN4tX4g.gif" alt="Sistema de Recomendação" width="600"> </p>
 📚 Fundamentação Matemática
