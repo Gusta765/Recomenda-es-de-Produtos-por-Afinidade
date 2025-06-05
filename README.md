@@ -99,6 +99,8 @@ Produto  Similaridade
 
 Execute o script principal e insira o ID de um produto para receber recomendações com base em similaridade.
 
+[Clique Aqui](https://github.com/Gusta765/Recomenda-es-de-Produtos-por-Afinidade/blob/main/Sistema_Recomenda%C3%A7%C3%A3o.ipynb)
+
 ---
 
 ## 📫 Contato
