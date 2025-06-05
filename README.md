@@ -49,9 +49,6 @@ A **similaridade cosseno** mede o ângulo entre dois vetores, sem considerar mag
 - \( \|A\| \): Norma Euclidiana de A  
 - \( \|B\| \): Norma Euclidiana de B
 
-<p align="center">
-  <img src="https://www.researchgate.net/profile/Hans-Georg-Stark/publication/301874235/figure/fig1/AS:669956433379332@1536748952244/Illustration-of-the-cosine-similarity-principle.png" width="400" alt="Cosine Similarity"/>
-</p>
 
 ---
 
